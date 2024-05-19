@@ -1,0 +1,8 @@
+{
+    "noise_size": 109,
+    "g_start_hidden_size": 32,
+    "d_start_hidden_size": 8,
+    "g_before_hidden_layers_count": 5,
+    "d_before_hidden_layers_count": 1,
+    "output_size_floats": 183
+}

@@ -1,0 +1,149 @@
+{
+    "enables": [
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0
+    ],
+    "renderer": {
+        "renderMode": 4.0,
+        "sortingOrder": 0.0,
+        "mesh": 5.0,
+        "material": 410.0
+    },
+    "main": {
+        "duration": 7.0,
+        "loop": true,
+        "prewarm": false,
+        "startDelay": 3.8,
+        "startLifetime": 5.0,
+        "startSpeed": 40.0,
+        "startSize3D": false,
+        "startSize": 100.0,
+        "startSizeX": 100.0,
+        "startSizeY": 1.0,
+        "startSizeZ": 1.0,
+        "startRotation3D": false,
+        "startRotation": 6.283185,
+        "startRotationX": 0.0,
+        "startRotationY": 0.0,
+        "startRotationZ": 6.283185,
+        "startColor": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "gravityModifier": 7.5,
+        "maxParticles": 10000.0
+    },
+    "emission": {
+        "type": 0.0,
+        "rateOverTime": 3000.0,
+        "rateOverDistance": 0.0,
+        "bursts": [
+            {
+                "time": 0.0,
+                "count": 0.0,
+                "cycleCount": 1.0,
+                "repeatInterval": 0.0,
+                "probability": 1.0
+            }
+        ]
+    },
+    "shape": {
+        "box": {
+            "x": 50.0,
+            "y": 8.0,
+            "z": 50.0
+        },
+        "meshScale": 50.0,
+        "randomDirection": true,
+        "shapeType": 5.0,
+        "randomDirectionAmount": 1.0,
+        "sphericalDirectionAmount": 0.0,
+        "randomPositionAmount": 0.0,
+        "alignToDirection": false,
+        "radius": 25.0,
+        "radiusMode": 0.0,
+        "radiusSpread": 0.0,
+        "radiusSpeed": 1.0,
+        "radiusThickness": 1.0,
+        "angle": 90.0,
+        "length": 5.0,
+        "boxThickness": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "meshShapeType": 0.0,
+        "meshSpawnMode": 0.0,
+        "meshSpawnSpread": 0.0,
+        "meshSpawnSpeed": 1.0,
+        "arc": 360.0,
+        "arcMode": 0.0,
+        "arcSpread": 0.0,
+        "arcSpeed": 1.0,
+        "donutRadius": 0.2,
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "scale": {
+            "x": 50.0,
+            "y": 8.0,
+            "z": 50.0
+        }
+    },
+    "velocityOverLifetime": {
+        "x": 40.0,
+        "y": 100.0,
+        "z": 20.0,
+        "orbitalX": 0.0,
+        "orbitalY": 0.0,
+        "orbitalZ": 0.0,
+        "orbitalOffsetX": 0.0,
+        "orbitalOffsetY": 0.0,
+        "orbitalOffsetZ": 0.0,
+        "radial": 0.0,
+        "speedModifier": 1.0,
+        "space": 1.0
+    },
+    "forceOverLifetime": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "space": 1.0,
+        "randomized": false
+    },
+    "colorOverLifetime": {
+        "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+        }
+    },
+    "sizeOverLifetime": {
+        "size": 45.814568,
+        "x": 45.814568,
+        "y": 1.0,
+        "z": 1.0,
+        "separateAxes": false
+    },
+    "rotationOverLifetime": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 18.849556,
+        "separateAxes": false
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "enables": [
+        1.0,
+        0.8446,
+        0.1195,
+        0.0,
+        0.9984,
+        0.5256,
+        0.9391
+    ],
+    "renderer": {
+        "renderMode": 0.4343,
+        "sortingOrder": 0.0,
+        "mesh": 2.0812,
+        "material": 178.665
+    },
+    "main": {
+        "duration": 0.7747,
+        "loop": true,
+        "prewarm": false,
+        "startDelay": {
+            "minConstant": 0.0428,
+            "maxConstant": 0.0205
+        },
+        "startLifetime": {
+            "minConstant": 1.1355,
+            "maxConstant": 2.3322
+        },
+        "startSpeed": {
+            "minConstant": 2.8555,
+            "maxConstant": 2.2212
+        },
+        "startSize3D": false,
+        "startSize": {
+            "minConstant": 5.2781,
+            "maxConstant": 7.0792
+        },
+        "startSizeX": {
+            "minConstant": 1.9746,
+            "maxConstant": 4.8686
+        },
+        "startSizeY": {
+            "minConstant": 1.0001,
+            "maxConstant": 1.0
+        },
+        "startSizeZ": {
+            "minConstant": 1.0,
+            "maxConstant": 1.0
+        },
+        "startRotation3D": false,
+        "startRotation": {
+            "minConstant": -0.7753,
+            "maxConstant": 1.9896
+        },
+        "startRotationX": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "startRotationY": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0001
+        },
+        "startRotationZ": {
+            "minConstant": -3.7681,
+            "maxConstant": 1.9888
+        },
+        "startColor": {
+            "gradient": {
+                "colorKeys": [
+                    {
+                        "color": {
+                            "r": 0.9333,
+                            "g": 0.2328,
+                            "b": 0.1614,
+                            "a": 1.1993
+                        },
+                        "time": 0.0
+                    },
+                    {
+                        "color": {
+                            "r": 0.8255,
+                            "g": 0.3724,
+                            "b": 0.134,
+                            "a": 1.0
+                        },
+                        "time": 0.0002
+                    },
+                    {
+                        "color": {
+                            "r": 0.8565,
+                            "g": 0.4089,
+                            "b": 0.1336,
+                            "a": 1.0
+                        },
+                        "time": 0.0067
+                    }
+                ],
+                "alphaKeys": [
+                    {
+                        "alpha": 0.6828,
+                        "time": 0.0
+                    },
+                    {
+                        "alpha": 0.9332,
+                        "time": 0.0016
+                    },
+                    {
+                        "alpha": 0.9063,
+                        "time": 0.0024
+                    }
+                ],
+                "mode": 0.0
+            }
+        },
+        "gravityModifier": {
+            "minConstant": -0.0789,
+            "maxConstant": 0.2951
+        },
+        "maxParticles": 4647.9274
+    },
+    "emission": {
+        "type": 0.0,
+        "rateOverTime": {
+            "minConstant": 595.9052,
+            "maxConstant": 257.2598
+        },
+        "rateOverDistance": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "bursts": [
+            {
+                "time": 0.0004,
+                "count": 0.0,
+                "cycleCount": 1.0,
+                "repeatInterval": 0.0,
+                "probability": 1.0
+            }
+        ]
+    },
+    "shape": {
+        "box": {
+            "x": 1.8576,
+            "y": 2.0851,
+            "z": 0.9814
+        },
+        "meshScale": 1.249,
+        "randomDirection": false,
+        "shapeType": 2.1012,
+        "randomDirectionAmount": 0.268,
+        "sphericalDirectionAmount": 0.0003,
+        "randomPositionAmount": 0.0,
+        "alignToDirection": false,
+        "radius": 4.3626,
+        "radiusMode": 0.0,
+        "radiusSpread": 0.0002,
+        "radiusSpeed": {
+            "minConstant": 1.0,
+            "maxConstant": 1.0
+        },
+        "radiusThickness": 0.5236,
+        "angle": 34.1486,
+        "length": 4.9731,
+        "boxThickness": {
+            "x": 0.0003,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "meshShapeType": 0.0006,
+        "meshSpawnMode": 0.0,
+        "meshSpawnSpread": 0.0,
+        "meshSpawnSpeed": {
+            "minConstant": 1.0,
+            "maxConstant": 1.0
+        },
+        "arc": 360.0,
+        "arcMode": 0.0,
+        "arcSpread": 0.0,
+        "arcSpeed": {
+            "minConstant": 1.0,
+            "maxConstant": 1.0
+        },
+        "donutRadius": 0.2049,
+        "position": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0001
+        },
+        "scale": {
+            "x": 1.2329,
+            "y": 0.2486,
+            "z": 0.5434
+        }
+    },
+    "velocityOverLifetime": {
+        "x": {
+            "minConstant": 5.9226,
+            "maxConstant": -3.8228
+        },
+        "y": {
+            "minConstant": -10.3873,
+            "maxConstant": -1.5765
+        },
+        "z": {
+            "minConstant": -19.7271,
+            "maxConstant": 2.0108
+        },
+        "orbitalX": {
+            "minConstant": 0.0002,
+            "maxConstant": 0.0
+        },
+        "orbitalY": {
+            "minConstant": 0.0005,
+            "maxConstant": 0.0
+        },
+        "orbitalZ": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "orbitalOffsetX": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "orbitalOffsetY": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "orbitalOffsetZ": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "radial": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0007
+        },
+        "speedModifier": {
+            "minConstant": 1.0,
+            "maxConstant": 1.0
+        },
+        "space": 0.0866
+    },
+    "forceOverLifetime": {
+        "x": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0002
+        },
+        "y": {
+            "minConstant": -0.6597,
+            "maxConstant": -0.2627
+        },
+        "z": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "space": 0.0187,
+        "randomized": false
+    },
+    "colorOverLifetime": {
+        "color": {
+            "gradient": {
+                "colorKeys": [
+                    {
+                        "color": {
+                            "r": 0.7783,
+                            "g": 0.8624,
+                            "b": 0.7592,
+                            "a": 1.0
+                        },
+                        "time": 0.0001
+                    },
+                    {
+                        "color": {
+                            "r": 0.8077,
+                            "g": 0.7834,
+                            "b": 0.907,
+                            "a": 1.0
+                        },
+                        "time": 0.4993
+                    },
+                    {
+                        "color": {
+                            "r": 0.8481,
+                            "g": 0.9292,
+                            "b": 0.951,
+                            "a": 1.0007
+                        },
+                        "time": 0.9968
+                    }
+                ],
+                "alphaKeys": [
+                    {
+                        "alpha": 0.0724,
+                        "time": 0.0
+                    },
+                    {
+                        "alpha": 0.7859,
+                        "time": 0.5109
+                    },
+                    {
+                        "alpha": 0.006,
+                        "time": 1.0
+                    }
+                ],
+                "mode": 0.0
+            }
+        }
+    },
+    "sizeOverLifetime": {
+        "size": {
+            "minConstant": 0.4737,
+            "maxConstant": 0.519
+        },
+        "x": {
+            "minConstant": 0.4612,
+            "maxConstant": 1.1474
+        },
+        "y": {
+            "minConstant": 0.1943,
+            "maxConstant": 1.0
+        },
+        "z": {
+            "minConstant": 0.1264,
+            "maxConstant": 1.0004
+        },
+        "separateAxes": false
+    },
+    "rotationOverLifetime": {
+        "x": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "y": {
+            "minConstant": 0.0,
+            "maxConstant": 0.0
+        },
+        "z": {
+            "minConstant": 1.5585,
+            "maxConstant": 1.7924
+        },
+        "separateAxes": false
+    }
+}
