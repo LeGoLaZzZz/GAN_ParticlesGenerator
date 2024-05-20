@@ -1,9 +1,28 @@
 ## Introduction
 
-This project establishes an approach to integrating machine learning into the VFX creation pipeline. 
+This project establishes an approach to integrating machine learning into the VFX creation pipeline.
 It uses a GAN (Generative Adversarial Network) to generate Particle System assets for Unity.
+
 ![example2.gif](readme_files/example2.gif)
 _Figure 1: Example of GAN generated particle systems assets_
+### Paper
+You can read more about the scientific work in this [paper](readme_files/Manatov_GANParticlesGenerator_paper.pdf).
+## Contents
+1. [Introduction](#introduction)
+   - [Paper](#paper)
+   - [Approach](#approach)
+2. [Install](#install)
+   - [Setup Unity Project](#setup-unity-project)
+   - [Setup Python Neural Network Project](#setup-python-neural-network-project)
+3. [Usage Guide](#usage-guide)
+   - [Dataset creator tool](#dataset-creator-tool)
+   - [Train GAN](#train-gan)
+   - [Generate particle systems](#generate-particle-systems)
+   - [Tags editors](#tags-editors)
+      - [Grid tag Editor](#grid-tag-editor)
+      - [Individual tag Editor](#individual-tag-editor)
+
+
 
 ### Approach
 
